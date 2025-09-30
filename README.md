@@ -43,6 +43,9 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b1dde6d3-da8c-436a-8492-bd6c9c91b3b9" />&nbsp;
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7c2edd2d-2f45-45d1-bf22-0a27bd507065" />&nbsp;
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e5d009b7-1c62-4a07-82ca-a4377e56220b" />&nbsp;
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ee7f8c6a-d3f8-4430-a8bf-4319782a6b1e" />&nbsp;
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cf4b2397-f0f5-49e7-8330-f28e5b917cbc" />&nbsp;
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ab63d0bc-bdae-4bd7-8667-e8a803975a52" />&nbsp;
 <br><br>
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio,ai,ps,ae,pr,xd,figma&perline=8" alt="Tools" />&nbsp;
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3597c63a-71c3-4fe2-b31b-d46d300af756" />&nbsp;
